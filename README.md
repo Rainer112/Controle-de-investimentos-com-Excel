@@ -1,10 +1,13 @@
 # Controle-de-investimentos-com-Excel
-## Simulador de Investimentos em FIIs
 
-<img width="1800" height="350" alt="Finanças fácil 1" src="https://github.com/user-attachments/assets/2531a7b0-4bb0-4722-b6e5-96ff9771f5e2" />
+Projeto desenvolvido em Excel para simular a evolução de investimentos recorrentes em Fundos de Investimento Imobiliário (FIIs), permitindo visualizar o patrimônio acumulado, uma estimativa de dividendos mensais e uma sugestão de distribuição do aporte mensal entre diferentes tipos de FIIs.
 
 
-### 🎯 Objetivo
+<img width="1379" height="388" alt="finanças fácil 2" src="https://github.com/user-attachments/assets/c92f87e6-1a7f-41fd-9107-e148b59e5944" />
+
+
+
+## 🎯 Objetivo
 Este projeto tem como objetivo oferecer uma ferramenta prática em Excel para simulação de investimentos em **fundos imobiliários (FIIs)**. A planilha permite calcular:
 - Valor total investido ao longo do tempo  
 - Patrimônio acumulado  
