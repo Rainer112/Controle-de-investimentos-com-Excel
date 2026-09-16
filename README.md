@@ -14,7 +14,9 @@ Este projeto tem como objetivo oferecer uma ferramenta prática em Excel para si
 - Dividendos mensais projetados  
 - Cenários de crescimento em diferentes horizontes (2, 5, 10, 20, 30 anos)  
 
-### ⚙️ Configurações
+
+
+## ⚙️ Configurações
 
 
 <img width="826" height="140" alt="Configurações" src="https://github.com/user-attachments/assets/6c906b06-e903-4130-bc73-b386692834a7" />
@@ -36,7 +38,8 @@ Exemplo da planilha:
 - Taxa de rendimento: 1,07% ao mês  
 
 
-### 📈 Cenários de Dividendos
+
+## 📈 Cenários de Dividendos
 
 <img width="832" height="212" alt="Cenários" src="https://github.com/user-attachments/assets/12dfe1e0-d847-4b71-997c-98a36e2800a4" />
 
@@ -47,7 +50,7 @@ A planilha projeta dividendos mensais e acumulados em diferentes horizontes:
 - 10 anos → R$ 20  
 - 20 anos → R$ 30
 
-### 📊 Perfis de Investidor
+## 📊 Perfis de Investidor
 
 <img width="831" height="547" alt="Perfis" src="https://github.com/user-attachments/assets/ac170fcd-d6c9-4701-b612-7bc934dc044c" />
 
@@ -60,16 +63,27 @@ A planilha sugere alocação em diferentes tipos de FIIs conforme o perfil:
 | Moderado       | 32%     | 35%     | 8%      | 5%      | 10%     | 10%     |
 | Agressivo      | 50%     | 10%     | 5%      | 5%      | 20%     | 10%     |
 
-### 🛠️ Recursos Utilizados
+
+
+## 🛠️ Recursos Utilizados
 - Fórmulas financeiras do Excel (juros compostos, projeções de dividendos)  
 - Estrutura de tabelas dinâmicas para perfis de investidor  
 - Automação de cálculos para patrimônio acumulado  
 
-### 🚀 Como Usar
+
+## 🚀 Como Usar
 1. Abra o arquivo **Simulador_Investimentos_Fundos_Imobiliarios_Excel.xlsx**
 2. Acesse a aba **APP**
 3. Preencha os campos de configuração (salário, investimento mensal, prazo, taxa de rendimento)  
 4. Consulte os cenários de dividendos e patrimônio acumulado  
 5. Compare os perfis de investidor para definir sua estratégia  
 
----
+
+
+## 📝 Conclusão
+
+O projeto demonstra a construção de uma ferramenta de simulação financeira no Excel utilizando fórmulas, funções financeiras, buscas, validação de dados e visualização gráfica.
+
+A estrutura separa a interface de utilização (APP) da base de parâmetros (Planilha2), permitindo que os dados de distribuição por perfil sejam consultados automaticamente conforme a seleção do usuário.
+
+O projeto também demonstra como conceitos de matemática financeira podem ser transformados em uma ferramenta interativa, facilitando a análise de diferentes horizontes de investimento.
