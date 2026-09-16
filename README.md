@@ -5,16 +5,12 @@ Projeto desenvolvido em Excel para simular a evolução de investimentos recorre
 
 <img width="1379" height="388" alt="finanças fácil 2" src="https://github.com/user-attachments/assets/c92f87e6-1a7f-41fd-9107-e148b59e5944" />
 
-
-
 ## 🎯 Objetivo
 Este projeto tem como objetivo oferecer uma ferramenta prática em Excel para simulação de investimentos em **fundos imobiliários (FIIs)**. A planilha permite calcular:
 - Valor total investido ao longo do tempo  
 - Patrimônio acumulado  
 - Dividendos mensais projetados  
 - Cenários de crescimento em diferentes horizontes (2, 5, 10, 20, 30 anos)  
-
-
 
 ## ⚙️ Configurações
 
@@ -35,9 +31,7 @@ Exemplo da planilha:
 - Salário: R$ 2.000  
 - Investimento mensal: R$ 200  
 - Prazo: 5 anos  
-- Taxa de rendimento: 1,07% ao mês  
-
-
+- Taxa de rendimento: 1,07% ao mês
 
 ## 📈 Cenários de Dividendos
 
@@ -64,7 +58,6 @@ A planilha sugere alocação em diferentes tipos de FIIs conforme o perfil:
 | Agressivo      | 50%     | 10%     | 5%      | 5%      | 20%     | 10%     |
 
 
-
 ## 🛠️ Recursos Utilizados
 - Fórmulas financeiras do Excel (juros compostos, projeções de dividendos)  
 - Estrutura de tabelas dinâmicas para perfis de investidor  
@@ -77,7 +70,6 @@ A planilha sugere alocação em diferentes tipos de FIIs conforme o perfil:
 3. Preencha os campos de configuração (salário, investimento mensal, prazo, taxa de rendimento)  
 4. Consulte os cenários de dividendos e patrimônio acumulado  
 5. Compare os perfis de investidor para definir sua estratégia  
-
 
 
 ## 📝 Conclusão
